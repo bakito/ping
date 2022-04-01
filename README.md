@@ -1,6 +1,6 @@
 [![Build Image](https://github.com/bakito/ping/actions/workflows/publish.yml/badge.svg)](https://github.com/bakito/ping/actions/workflows/publish.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/bakito/ping)](https://goreportcard.com/report/github.com/bakito/ping)
-[![Releases](https://img.shields.io/github/v/release/bakiti/ping?style=flat-square&label=Release)](https://github.com/balito/ping/releases)
+[![Releases](https://img.shields.io/github/v/release/bakito/ping?style=flat-square&label=Release)](https://github.com/bakito/ping/releases)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 # Ping
 
