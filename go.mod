@@ -3,7 +3,7 @@ module github.com/bakito/ping
 go 1.18
 
 require (
-	github.com/go-ping/ping v0.0.0-20211130115550-779d1e919534
+	github.com/go-ping/ping v1.1.0
 	github.com/jackpal/gateway v1.0.7
 )
 
