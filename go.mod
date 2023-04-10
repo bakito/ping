@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/go-ping/ping v1.1.0
-	github.com/jackpal/gateway v1.0.9
+	github.com/jackpal/gateway v1.0.10
 )
 
 require (
