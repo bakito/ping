@@ -1,4 +1,3 @@
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bakito/ping/Build%20Image?logo=github)](https://github.com/bakito/ping/actions/workflows/publish.yml)
 [![Releases](https://img.shields.io/github/v/release/bakito/ping?label=Release)](https://github.com/bakito/ping/releases)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 # Ping
